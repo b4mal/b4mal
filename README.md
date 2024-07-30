@@ -1,4 +1,4 @@
-# 👋 Hello, I'm @b4mal!
+# 👋 Hello, I'm B4mal!
 
 Welcome to my GitHub profile! I'm a passionate developer with a love for coding and exploring new technologies. Here’s a little bit about me:
  
